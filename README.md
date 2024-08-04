@@ -1,4 +1,4 @@
-# Tushar_AntiPshining_Link-Detection
+# Pshining_Link-Detection
 Pshininglink detection
 
 In the ever-evolving landscape of cybersecurity, detecting and mitigating phishing attacks remains a critical challenge. Phishing attacks, often initiated through deceptive links, pose significant threats to individuals and organizations alike. 
